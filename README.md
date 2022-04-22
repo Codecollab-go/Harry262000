@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"   />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=onlyanand10&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=Harry262000&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 - 👋 Hi, I’m @Harshal Honde
 - 👀 I’m interested in Data Science and Big Data 
