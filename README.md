@@ -1,6 +1,6 @@
 ## 👋 Namaste, I'm <a href=""> <b style="color:red;">Harshal Honde </b></a>  
 
-🔭 I'm Harshal, Pursuing my bachelor's degree in Computer Engineering <br>
+🔭 I'm Harshal, Pursuing my bachelor's degree in Electrical Engineering <br>
 🧑‍💻 I ❤️ to play with Data and make something amazing output models with help of Data. <br>
 🤝 Looking forward to contribute in Data Science and Machine Learning projects <br>
 
