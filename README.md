@@ -17,7 +17,8 @@
 </a>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harry262000&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-
+## 2. Most Used Languages
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry262000&theme=blue-green)
 - 👋 Hi, I’m @Harshal Honde
 - 👀 I’m interested in Data Science and Big Data 
 - 🌱 I’m currently learning Data Science and Machine Learning 
@@ -28,11 +29,8 @@
 Harry262000/Harry262000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-# Top 5 Badges That Will Take Your GitHub Repository to the Next Level
-## 1. GitHub Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=Tanu-N-Prabhu&show_icons=true)
-## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanu-N-Prabhu&theme=blue-green)
+
+
 ## 3. Contributors Badge
 ![Your Repository's Stats](https://contrib.rocks/image?repo=Tanu-N-Prabhu/Python)
 ## 4. Random Joke Generator
