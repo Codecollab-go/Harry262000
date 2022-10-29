@@ -31,7 +31,7 @@
 <img src="https://readme-jokes.vercel.app/api">
 ## 5. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=Harry262000">
-### Repository View Counter - HITS
+## Repository View Counter - HITS
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Harry262000/Python">
 <!---
 Harry262000/Harry262000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
