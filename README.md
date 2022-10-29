@@ -25,13 +25,17 @@
 - 📫 How to reach me .
 ## 2. Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry262000&theme=blue-green">
+
 ## 3. Contributors Badge
 <img src="https://contrib.rocks/image?repo=Harry262000/Python">
+
 ## 4. Random Joke Generator
 <img src="https://readme-jokes.vercel.app/api">
+
 ## 5. Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=Harry262000">
-## Repository View Counter - HITS
+
+## 6. Repository View Counter - HITS
 <img src="https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Harry262000/Python">
 <!---
 Harry262000/Harry262000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
