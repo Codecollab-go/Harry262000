@@ -18,7 +18,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Harry262000&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry262000&theme=blue-green)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=Harry262000&theme=blue-green)
 - 👋 Hi, I’m @Harshal Honde
 - 👀 I’m interested in Data Science and Big Data 
 - 🌱 I’m currently learning Data Science and Machine Learning 
