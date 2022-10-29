@@ -23,19 +23,19 @@
 - 🌱 I’m currently learning Data Science and Machine Learning 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me .
-## 2. Most Used Languages
+##  Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry262000&theme=blue-green">
 
-## 3. Contributors Badge
+##  Contributors Badge
 <img src="https://contrib.rocks/image?repo=Harry262000/Python">
 
-## 4. Random Joke Generator
+##  Random Joke Generator
 <img src="https://readme-jokes.vercel.app/api">
 
-## 5. Profile View Counter
+##  Profile View Counter
 <img src="https://komarev.com/ghpvc/?username=Harry262000">
 
-## 6. Repository View Counter - HITS
+## Repository View Counter - HITS
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHarry262000%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 <!---
 Harry262000/Harry262000 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
