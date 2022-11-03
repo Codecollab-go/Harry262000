@@ -27,7 +27,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry262000&theme=blue-green">
 
 ##  Contributors Badge
-<img src="https://contrib.rocks/image?repo=Harry262000/Python">
+<img src="https://contrib.rocks/image?https://www.codewars.com/users/Harry262000/badges/large">
 
 ##  Random Joke Generator
 <img src="https://readme-jokes.vercel.app/api">
