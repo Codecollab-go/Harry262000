@@ -27,7 +27,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry262000&theme=blue-green">
 
 ##  Contributors Badge
-<img src="https://www.codewars.com/users/Harry262000/badges/large">
 <img src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white">
 <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white">
 <img src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue">
