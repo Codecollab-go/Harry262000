@@ -22,7 +22,7 @@
 - 👀 I’m interested in Data Science and Big Data 
 - 🌱 I’m currently learning Data Science and Machine Learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .
+- 📫 How to reach me.
 ##  Most Used Languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harry262000&theme=blue-green">
 
