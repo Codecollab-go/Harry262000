@@ -6,13 +6,13 @@
 <Br>
 <h1>About Me! 😎</h1>
 
-- 🏫: I'm a Aspiring Data Scientist.
+- 🏫: I'm an Aspiring Data Scientist.
 - 🔭: I’m currently working on many small ML projects.
-- 🌱: I’m currently learning Neural Networks ,Deep Learning, NLP and CV. 🧠💻🤖
+- 🌱: I’m currently learning Neural Networks, Deep Learning, NLP and CV. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
-- 😄  Pronouns: He/His
-- ⚡  Fun fact: I'm Introvert and boring guy
+- 😄  Pronouns: He/Him
+- ⚡  Fun fact: I'm an Introvert and a boring guy.
 
 <hr>
 <Br>
@@ -51,6 +51,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=WebScrapping)](https://github.com/Harry262000/WebScrapping)
 [![Web Scrapping](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=WebScrapping)](https://github.com/Harry262000/WebScrapping)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Machine-Learning)](https://github.com/Harry262000/WebScrapping)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Machine-Learning)](https://github.com/Harry262000/WebScrapping)
 
 <Br>
