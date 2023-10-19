@@ -48,8 +48,9 @@
 <Br>
 <h1>Some of my Projects! 🎨</h1>
 <Br>
-  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Machine-Learning)](https://github.com/Harry262000/Machine-Learning)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Machine-Learning)](https://github.com/Harry262000/WebScrapping)  
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Machine-Learning)](https://github.com/Harry262000/WebScrapping)
 
 <Br>
 <hr>
