@@ -48,11 +48,9 @@
 <Br>
 <h1>Some of my Projects! 🎨</h1>
 <Br>
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=WebScrapping)](https://github.com/Harry262000/WebScrapping)
 [![Web Scrapping](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=WebScrapping)](https://github.com/Harry262000/WebScrapping)  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Machine-Learning)](https://github.com/Harry262000/WebScrapping)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Machine-Learning)](https://github.com/Harry262000/WebScrapping)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Machine-Learning)](https://github.com/Harry262000/Machine-Learning)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=Kaggle--Notebooks)](https://github.com/Harry262000/Kaggle--Notebooks)
 
 <Br>
 <hr>
