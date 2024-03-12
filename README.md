@@ -49,10 +49,10 @@
 
 ## Top Open Source -
 
-[![iTasks](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/)
-[![urFolio](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/)
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/)
-[![Al Siam Readme](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/)
+[![Time Series Forcasting](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=itasks&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Time_series_forcasting)
+[![Chatbot Development](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=urfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Chatbot-Developement)
+[![Youtube Trend Forcasting](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=web-projects&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Youtube_trend_forcasting_project)
+[![Text Summarization Project](https://github-readme-stats.vercel.app/api/pin/?username=Harry262000&repo=alsiam&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Harry262000/Natural-Language-Processing)
 
 <p align="left">
   <a href="https://github.com/Harry262000?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
